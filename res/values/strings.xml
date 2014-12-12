@@ -6,7 +6,7 @@
     <string name="title_activity_main">Pizza Ultimate</string>
 
     <string name="textview_name">Username</string>
-    <string name="textview_description">Pizza</string>
+    <string name="textview_meal">Gericht</string>
     <string name="textview_size">Größe</string>
     <string name="textview_price">Preis in Euro</string>
 

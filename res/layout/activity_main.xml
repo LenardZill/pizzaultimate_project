@@ -18,13 +18,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="@string/textview_description"
-            android:id="@+id/textView_description"/>
+            android:text="@string/textview_meal"
+            android:id="@+id/textView_meal"/>
     <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/launch_description"
-            android:id="@+id/edit_description" android:layout_gravity="center_horizontal"/>
+            android:id="@+id/edit_meal" android:layout_gravity="center_horizontal"/>
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
