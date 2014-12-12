@@ -26,6 +26,10 @@ public class OverviewActivity extends Activity {
         textview3.setText(intent.getStringExtra("size"));
         textview4.setText(intent.getStringExtra("price"));
 
+        //MySQLiteHelper db = new MySQLiteHelper(this);
+        //db.addOrder(new Order(intent.getStringExtra("username"),intent.getStringExtra("meal"),intent.getStringExtra("size"),Float.parseFloat(intent.getStringExtra("price")), new Date("")));
+
+        //Order order = db.getOrder(1);
     }
 
     @Override

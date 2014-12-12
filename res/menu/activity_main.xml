@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-            android:id="@+id/menu_red"
+            android:id="@+id/menu_main"
             android:orderInCategory="1"
             android:showAsAction="never"
-            android:title="@string/app_name"/>
+            android:title="@string/title_activity_main"/>
     <item
-            android:id="@+id/menu_green"
+            android:id="@+id/menu_recent"
             android:orderInCategory="2"
             android:showAsAction="never"
-            android:title="@string/app_name"/>
+            android:title="@string/title_activity_recent"/>
     <item
-            android:id="@+id/menu_blue"
-            android:orderInCategory="1"
-            android:showAsAction="never"
-            android:title="@string/app_name"/>
-    <item
-            android:id="@+id/menu_yellow"
+            android:id="@+id/menu_admin"
             android:orderInCategory="2"
             android:showAsAction="never"
-            android:title="@string/app_name"/>
+            android:title="@string/title_activity_admin"/>
 
 </menu>
